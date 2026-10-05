@@ -2,7 +2,7 @@
 
 Aplicación de escritorio desarrollada en Java Swing con arquitectura MVC y patrón DAO para la gestión de pedidos, repartidores y entregas con persistencia en base de datos MySQL.
 
----
+```text
 📁 Estructura del Proyecto
 src/
 ├── app/
@@ -24,7 +24,7 @@ src/
     ├── VentanaListaPedidos.java    # Interfaz para consultar tabla de pedidos
     ├── VentanaPrincipal.java       # Menú principal del sistema
     └── VentanaRegistroPedido.java  # Formulario de registro con ID autogenerado
----
+```
 
 ##🗄️ Configuración de la Base de Datos (speedfast_db)
 
