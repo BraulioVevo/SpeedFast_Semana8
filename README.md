@@ -26,7 +26,7 @@ src/
     └── VentanaRegistroPedido.java  # Formulario de registro con ID autogenerado
 ```
 
-##🗄️ Configuración de la Base de Datos (speedfast_db)
+**🗄️ Configuración de la Base de Datos (speedfast_db)
 
 Ejecuta el siguiente script en tu cliente MySQL (Workbench, phpMyAdmin, DBeaver) antes de iniciar el programa:
 
